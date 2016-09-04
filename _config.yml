@@ -1,3 +1,4 @@
+layout_spectrum: 0.8075384916737676
 typography_spectrum: 0.7181053943932056
 color:
   brandStrength: 0.45467778970487416
@@ -10,11 +11,4 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-layout_spectrum: 0.8075384916737676
 name: Adopt a Diet
-navigation:
-  - name: About us
-    id: 2b819c4f-3199-4b48-90ff-f8a8121442c3
-    type: content
-title: It's a simple idea...
-description: Adopt a simple diet and donate the money you save.
